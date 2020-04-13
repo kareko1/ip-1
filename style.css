@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(163, 156, 151);
+    font: outline;
+    text-align: justin
+
+}
+.container{
+    border-radius: inherit;
+    border-style: dotted;
+    
+    
+}
+
+h2{
+    font-family: Lobster,
+    monospace;
+    
+}
+h1,h2{
+    color:rgb(50, 205, 205);
+}
+h2{
+  background-color:darkgray;
+
+}
+p,ul{
+  color:rgba(51, 38, 107, 0.658);
+  font-size: 15px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.flavour{
+  color: black;
+}
